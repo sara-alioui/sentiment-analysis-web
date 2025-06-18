@@ -1,0 +1,145 @@
+[
+  {
+    "tweet": "@Applecored can i just invite you to zigazag across the floor then shuffle and diagonal  how're you milady",
+    "tweet_short": "@Applecored can i just invite you to zigazag across the floor then shuffle and diagonal  how're you milady",
+    "score": {
+      "neg": 0.0,
+      "neu": 0.914,
+      "pos": 0.086,
+      "compound": 0.1531
+    },
+    "sentiment": "positif"
+  },
+  {
+    "tweet": "@QueenRania Rania, the poor Gazans  What right to exist was claimed for them in the fairy tales the masses choose to blindly follow?",
+    "tweet_short": "@QueenRania Rania, the poor Gazans  What right to exist was claimed for them in the fairy tales the masses choose to blindly follow?",
+    "score": {
+      "neg": 0.124,
+      "neu": 0.876,
+      "pos": 0.0,
+      "compound": -0.4767
+    },
+    "sentiment": "negatif"
+  },
+  {
+    "tweet": "@miiikesad ya! lets! my bike is collecting dust, but i kindasorta forgot how to ride  ;X @ginogagaza hahah. aah tell me about it!  ",
+    "tweet_short": "@miiikesad ya! lets! my bike is collecting dust, but i kindasorta forgot how to ride  ;X @ginogagaza hahah. aah tell me about it!  ",
+    "score": {
+      "neg": 0.0,
+      "neu": 1.0,
+      "pos": 0.0,
+      "compound": 0.0
+    },
+    "sentiment": "neutre"
+  },
+  {
+    "tweet": "@ginogagaza just read yur tumblr bout my last day in SF. thx brah... ",
+    "tweet_short": "@ginogagaza just read yur tumblr bout my last day in SF. thx brah... ",
+    "score": {
+      "neg": 0.0,
+      "neu": 0.828,
+      "pos": 0.172,
+      "compound": 0.3612
+    },
+    "sentiment": "positif"
+  },
+  {
+    "tweet": "@MgazAmerica Super cute! Thanks for the follow, right back atcha  ",
+    "tweet_short": "@MgazAmerica Super cute! Thanks for the follow, right back atcha  ",
+    "score": {
+      "neg": 0.0,
+      "neu": 0.41,
+      "pos": 0.59,
+      "compound": 0.8777
+    },
+    "sentiment": "positif"
+  },
+  {
+    "tweet": "@tzipi_livni Please let the norwegian medical doctor Mads Gilbert into Gaza. THX ",
+    "tweet_short": "@tzipi_livni Please let the norwegian medical doctor Mads Gilbert into Gaza. THX ",
+    "score": {
+      "neg": 0.0,
+      "neu": 0.644,
+      "pos": 0.356,
+      "compound": 0.6739
+    },
+    "sentiment": "positif"
+  },
+  {
+    "tweet": "@Sanrag Aa dekhen zara ka music try kar le .. a few songs like &quot;gazab&quot; and title song are good!! ",
+    "tweet_short": "@Sanrag Aa dekhen zara ka music try kar le .. a few songs like &quot;gazab&quot; and title song are good!! ",
+    "score": {
+      "neg": 0.0,
+      "neu": 0.751,
+      "pos": 0.249,
+      "compound": 0.717
+    },
+    "sentiment": "positif"
+  },
+  {
+    "tweet": "@ginogagaza awww! you like anne curtis too tho rite?? it's her soap thats gonna replace it! ",
+    "tweet_short": "@ginogagaza awww! you like anne curtis too tho rite?? it's her soap thats gonna replace it! ",
+    "score": {
+      "neg": 0.0,
+      "neu": 0.813,
+      "pos": 0.187,
+      "compound": 0.5337
+    },
+    "sentiment": "positif"
+  },
+  {
+    "tweet": "@ginogagaza, missed you at work today bok  hope you're feeling better!",
+    "tweet_short": "@ginogagaza, missed you at work today bok  hope you're feeling better!",
+    "score": {
+      "neg": 0.131,
+      "neu": 0.417,
+      "pos": 0.452,
+      "compound": 0.6588
+    },
+    "sentiment": "positif"
+  },
+  {
+    "tweet": "@ashgazal  card was eaten by an ATM  last thurs. cancelled it next morn but today noticed several fraudulent transactions on my account ",
+    "tweet_short": "@ashgazal  card was eaten by an ATM  last thurs. cancelled it next morn but today noticed several fraudulent transactions on my account ",
+    "score": {
+      "neg": 0.225,
+      "neu": 0.775,
+      "pos": 0.0,
+      "compound": -0.7003
+    },
+    "sentiment": "negatif"
+  },
+  {
+    "tweet": "@Gazar74  -  heey thank you !    &lt;3",
+    "tweet_short": "@Gazar74  -  heey thank you !    &lt;3",
+    "score": {
+      "neg": 0.0,
+      "neu": 0.682,
+      "pos": 0.318,
+      "compound": 0.4199
+    },
+    "sentiment": "positif"
+  },
+  {
+    "tweet": "@Gazamom I'd love to see that! As a success but I think the drones might have issue and intercept  Damn them. ",
+    "tweet_short": "@Gazamom I'd love to see that! As a success but I think the drones might have issue and intercept  Damn them. ",
+    "score": {
+      "neg": 0.133,
+      "neu": 0.672,
+      "pos": 0.196,
+      "compound": 0.1759
+    },
+    "sentiment": "positif"
+  },
+  {
+    "tweet": "@noxhanti  true but some of them r most convenient 4 western gov like this 1, some others r most inconvenient, like war crimes in Gaza",
+    "tweet_short": "@noxhanti  true but some of them r most convenient 4 western gov like this 1, some others r most inconvenient, like war crimes in Gaza",
+    "score": {
+      "neg": 0.244,
+      "neu": 0.525,
+      "pos": 0.231,
+      "compound": -0.3543
+    },
+    "sentiment": "negatif"
+  }
+]
